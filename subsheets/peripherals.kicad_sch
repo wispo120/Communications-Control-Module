@@ -9781,7 +9781,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x07_Socket")
-		(at 176.53 49.53 0)
+		(at 181.61 49.53 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9789,10 +9789,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d6c92051-cc30-416a-8c18-9f5828061544")
 		(property "Reference" "J6"
-			(at 177.8 48.2599 0)
+			(at 164.338 39.116 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9803,7 +9802,7 @@
 			)
 		)
 		(property "Value" "Conn_01x07_Socket"
-			(at 177.8 50.7999 0)
+			(at 163.322 36.576 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9814,7 +9813,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 49.53 0)
+			(at 181.61 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9825,7 +9824,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 49.53 0)
+			(at 181.61 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9836,7 +9835,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x07, script generated"
-			(at 176.53 49.53 0)
+			(at 181.61 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
