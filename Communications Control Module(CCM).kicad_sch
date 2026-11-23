@@ -3694,6 +3694,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 121.92) (xy 120.65 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62cc21b7-627d-4fb8-8539-e1b4579b2f17")
+	)
+	(wire
+		(pts
 			(xy 148.59 43.18) (xy 148.59 40.64)
 		)
 		(stroke
@@ -3874,16 +3884,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 83.82) (xy 177.8 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aaefc5ce-13cd-4cbc-8fef-62c9ca99f3f5")
-	)
-	(wire
-		(pts
 			(xy 200.66 101.6) (xy 212.09 101.6)
 		)
 		(stroke
@@ -4054,13 +4054,13 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 81.28) (xy 177.8 81.28)
+			(xy 118.11 119.38) (xy 120.65 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e90f02f0-bc51-4b4c-a30d-3503157e6298")
+		(uuid "e8255b40-5ff2-4c2d-a255-2f894ced3318")
 	)
 	(wire
 		(pts
@@ -4123,14 +4123,14 @@
 		(uuid "fcdd0a23-2411-47cd-90a5-36b17a669c5b")
 	)
 	(label "CAN_TX"
-		(at 177.8 83.82 180)
+		(at 118.11 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "3a7c3a90-dfe8-4d9f-94ff-66a15d4ceb95")
+		(uuid "3b1b5701-5338-41a1-b5a8-2f0feadf755c")
 	)
 	(label "SWCLK"
 		(at 177.8 88.9 180)
@@ -4183,6 +4183,16 @@
 		)
 		(uuid "599dd181-7d6a-49cc-a8ac-4209592fa266")
 	)
+	(label "CAN_RX"
+		(at 118.11 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7d70c301-4118-48a5-a645-53cd76766867")
+	)
 	(label "CAN_TX"
 		(at 200.66 101.6 0)
 		(effects
@@ -4193,16 +4203,6 @@
 			(justify left bottom)
 		)
 		(uuid "bc7fc10d-aae0-4e2c-99e5-4fbf9e2658f3")
-	)
-	(label "CAN_RX"
-		(at 177.8 81.28 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "eacfd7bd-68a9-4ffa-8ce3-0a0187e3099d")
 	)
 	(label "HSE_IN"
 		(at 107.95 68.58 0)
